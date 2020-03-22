@@ -14,6 +14,5 @@ The .py files are used for converting .JPEG images into tensors and finally save
 * The `image_verifier.py` can be used to verify individual images.
 
 
-**Sid Latest Commit:**
-Removed Redundant functions.   
-Currently working on the softmax for H_inverse function
+**Sid Latest Commit:**   
+Completed and Tested Soft Encoding H_inverse function (`h_inverse_top_5` )
